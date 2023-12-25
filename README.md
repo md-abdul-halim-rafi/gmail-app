@@ -7,8 +7,8 @@ This is a simple Node.js application that uses Google's Gmail API to send emails
 To get started with this project, clone the repository and install the dependencies:
 
 ```
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:md-abdul-halim-rafi/gmail-app.git
+cd gmail-app
 npm install
 ```
 
